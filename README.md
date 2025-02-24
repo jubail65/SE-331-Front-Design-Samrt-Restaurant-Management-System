@@ -1,1 +1,1 @@
-# SE-331-Samrt-Restaurant-Management-System
+# SE-331-Front-Design-Samrt-Restaurant-Management-System
